@@ -1,6 +1,6 @@
 # Logster
 
-[![GitHub release](https://img.shields.io/github/release/itsrishub/logster.svg)](https://github.com/itsrishub/logster/releases) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/) [![GitHub Actions](https://img.shields.io/github/actions/workflow/status/itsrishub/logster/release.yml?branch=main)](https://github.com/itsrishub/logster/actions)
+[![GitHub release](https://img.shields.io/github/release/itsrishub/logster.svg)](https://github.com/itsrishub/logster/releases) [![GitHub Actions](https://img.shields.io/github/actions/workflow/status/itsrishub/logster/release.yml?branch=main)](https://github.com/itsrishub/logster/actions) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 A powerful, high-performance log analysis tool written in Rust. Logster helps you search, filter, and extract insights from various log formats.
 
