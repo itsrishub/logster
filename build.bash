@@ -1,5 +1,6 @@
 cargo build --release
 
+sudo cp target/release/logster /usr/local/bin/
 
 # # x86_64 Linux
 # cargo build --release --target x86_64-unknown-linux-gnu
