@@ -1,4 +1,7 @@
-# Logster
+
+![logster](https://raw.githubusercontent.com/itsrishub/logster/refs/heads/main/assets/logster.png)
+
+# logster
 
 [![GitHub release](https://img.shields.io/github/release/itsrishub/logster.svg)](https://github.com/itsrishub/logster/releases) [![GitHub Actions](https://img.shields.io/github/actions/workflow/status/itsrishub/logster/release.yml?branch=main)](https://github.com/itsrishub/logster/actions) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
