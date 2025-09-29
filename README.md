@@ -1,5 +1,6 @@
-
-![logster](https://raw.githubusercontent.com/itsrishub/logster/refs/heads/main/assets/logster.png)
+<p align="center">
+<img src="https://raw.githubusercontent.com/itsrishub/logster/refs/heads/main/assets/logster.png" alt="image" />
+</p>
 
 # logster
 
